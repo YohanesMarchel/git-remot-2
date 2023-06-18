@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>tes remot git 2</h1>
+
+    <li>list 1</li>
+    <li>list 2</li>
 </body>
 </html>
